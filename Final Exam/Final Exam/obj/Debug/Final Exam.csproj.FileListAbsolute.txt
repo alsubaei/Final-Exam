@@ -1,0 +1,17 @@
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\bin\Debug\Final Exam.exe.config
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\bin\Debug\Final Exam.exe
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\bin\Debug\Final Exam.pdb
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final Exam.csprojResolveAssemblyReference.cache
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final_Exam.Properties.Resources.resources
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final_Exam.School.resources
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final Exam.csproj.GenerateResource.Cache
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final Exam.exe
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final Exam.pdb
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\bin\Debug\school.mdf
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\bin\Debug\school_log.ldf
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\bin\Debug\Student.mdf
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\bin\Debug\Student_log.ldf
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final_Exam.Information.resources
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\Final_Exam.Report.resources
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\RdlCompile.cache
+F:\Second year term 2\C#\Final Exam + Project\Final Exam\Final Exam\obj\Debug\RdlCompile.compiled
